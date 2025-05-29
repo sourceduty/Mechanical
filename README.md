@@ -12,7 +12,7 @@ The decision to transition from a portable robotic arm or manipulator to an indu
 
 #
 
-![Sidewalk Machine](https://github.com/user-attachments/assets/3e493dd6-6a2c-445a-8980-8437d59d542c)
+![Sidewalk Machine](https://github.com/user-attachments/assets/d3f156ef-3dbd-4fad-85cb-e400d276031e)
 
 [Sidewalk Machine](https://chatgpt.com/g/g-6791a4e4d2348191b6db3eda38ad0ea4-sidewalk-machine) is an assistive tool designed to support the planning, optimization, and implementation of projects related to sidewalks and pedestrian pathways. It helps users design layouts, select materials, estimate costs, and create schedules for various tasks such as cleaning, repairs, snow removal, and surface treatments. With a focus on accessibility, safety, and sustainability, Sidewalk Machine guides users through a step-by-step process to prioritize goals like eco-friendly solutions, cost-effectiveness, or compliance with mobility standards. It incorporates urban design principles and local regulations, leveraging modern technology trends such as robotic automation and IoT sensors to recommend smart systems for monitoring and managing sidewalk conditions. This tool facilitates thoughtful project management by enabling users to evaluate impacts, refine designs in real time, and implement innovative solutions for creating and maintaining accessible and efficient pedestrian spaces.
 
