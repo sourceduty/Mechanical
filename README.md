@@ -37,6 +37,12 @@ A [quantum mechanical powered engine](https://chatgpt.com/g/g-67a43c96f6d481919c
 
 #
 
+![Gearhead Dev](https://github.com/user-attachments/assets/a230b6be-3c08-4b04-af91-2d36599908f1)
+
+[Gearhead Dev](https://chatgpt.com/g/g-68384797d5608191a99546894faa0c44-gearhead-dev) was made to assist mechanics, technicians, and engineers by developing smart tools, applications, and documentation tailored to mechanical workflows across automotive, industrial, and machinery domains. It specializes in creating automated scripts for common mechanical calculations (such as torque specs or load ratings), interpreting diagnostic codes (like OBD-II trouble codes), optimizing maintenance schedules, and even simulating physical behaviors using engineering principles. Gearhead Dev integrates with tools frequently used in the field—such as scan tools, CAD software, and diagnostic platforms—to deliver actionable insights and step-by-step repair guides that are accessible even to technicians with minimal computer training. It continuously stays informed about industry standards, technologies, and regulatory updates, providing features like service bulletin lookups, parts cross-references, and failure pattern detection to streamline diagnostics and reduce repair time. Ultimately, Gearhead Dev’s purpose is to minimize guesswork, boost accuracy, and enhance the efficiency and reliability of mechanical service operations through intelligent, user-friendly digital support.
+
+#
+
 [Engine Developer](https://chatgpt.com/g/g-67a42de8b4f481919351e2e7c11b8f7e-engine-developer)
 <br>
 [Car Design](https://chatgpt.com/g/g-EPHgYBaHt-car-design)
@@ -44,5 +50,3 @@ A [quantum mechanical powered engine](https://chatgpt.com/g/g-67a43c96f6d481919c
 [Robotics](https://github.com/sourceduty/Robotics)
 <br>
 [3D Machine](https://chatgpt.com/g/g-67900a9c99b8819196b1b090f042b4d1-3d-machine)
-<br>
-[Gearhead Dev](https://chatgpt.com/g/g-68384797d5608191a99546894faa0c44-gearhead-dev)
