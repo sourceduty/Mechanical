@@ -41,6 +41,8 @@ A [quantum mechanical powered engine](https://chatgpt.com/g/g-67a43c96f6d481919c
 <br>
 [Car Design](https://chatgpt.com/g/g-EPHgYBaHt-car-design)
 <br>
+[Robotics](https://github.com/sourceduty/Robotics)
+<br>
 [3D Machine](https://chatgpt.com/g/g-67900a9c99b8819196b1b090f042b4d1-3d-machine)
 <br>
 [Gearhead Dev](https://chatgpt.com/g/g-68384797d5608191a99546894faa0c44-gearhead-dev)
