@@ -52,3 +52,5 @@ A [quantum mechanical powered engine](https://chatgpt.com/g/g-67a43c96f6d481919c
 [3D Machine](https://chatgpt.com/g/g-67900a9c99b8819196b1b090f042b4d1-3d-machine)
 <br>
 [OBD2 Simulator](https://chatgpt.com/g/g-hm9vqprZa-obd2-simulator)
+<br>
+[Megamachine](https://chatgpt.com/g/g-6770e8ac218c8191b1dc2013058e330d-megamachine)
