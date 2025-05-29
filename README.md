@@ -1,4 +1,4 @@
-![Bulldozer Megamachine](https://github.com/user-attachments/assets/7293260c-503d-4f92-9903-bb2fe56a24c0)
+![Olden Firetrain Engine](https://github.com/user-attachments/assets/caf4e2ef-4d67-4a4f-af8a-26e3a2d43881)
 
 Mechanical systems, machines, and tools form the backbone of industrial and everyday activities by converting and directing energy to perform work efficiently. These systems range from simple hand-operated devices like hammers and levers to intricate automated machinery, such as robotic arms and hydraulic presses. Fundamental components including gears, pulleys, and motors collaborate to translate forces, control motion, and accomplish precise tasks, reflecting centuries of technological innovation designed to enhance productivity, precision, and reliability across numerous fields, from manufacturing and transportation to healthcare and construction.
 
@@ -43,6 +43,12 @@ A [quantum mechanical powered engine](https://chatgpt.com/g/g-67a43c96f6d481919c
 
 #
 
+![Megamachine](https://github.com/user-attachments/assets/9a4116b0-ce66-48f8-bf2b-0ad56e53b1e9)
+
+[Megamachine](https://chatgpt.com/g/g-6770e8ac218c8191b1dc2013058e330d-megamachine) was made to conceptualize, engineer, and visualize colossal futuristic machines—megamachines—built to perform superscale tasks that tackle some of the most ambitious challenges known to humanity. Whether it’s constructing cities in extreme environments like the deep sea or Mars, generating vast amounts of renewable energy, or conducting large-scale environmental restoration, Megamachine blends cutting-edge technologies, innovative engineering, and sustainable design principles to create detailed, imaginative solutions. It guides users through a step-by-step process to refine ideas and generate realistic visualizations and technical descriptions of these awe-inspiring machines.
+
+#
+
 [Engine Developer](https://chatgpt.com/g/g-67a42de8b4f481919351e2e7c11b8f7e-engine-developer)
 <br>
 [Car Design](https://chatgpt.com/g/g-EPHgYBaHt-car-design)
@@ -52,5 +58,3 @@ A [quantum mechanical powered engine](https://chatgpt.com/g/g-67a43c96f6d481919c
 [3D Machine](https://chatgpt.com/g/g-67900a9c99b8819196b1b090f042b4d1-3d-machine)
 <br>
 [OBD2 Simulator](https://chatgpt.com/g/g-hm9vqprZa-obd2-simulator)
-<br>
-[Megamachine](https://chatgpt.com/g/g-6770e8ac218c8191b1dc2013058e330d-megamachine)
