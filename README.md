@@ -1,4 +1,4 @@
-![High-Speed Car Deployment](https://github.com/user-attachments/assets/d2aa4b16-122c-421d-a41f-9678195dcc12)
+![Bulldozer Megamachine](https://github.com/user-attachments/assets/7293260c-503d-4f92-9903-bb2fe56a24c0)
 
 Mechanical systems, machines, and tools form the backbone of industrial and everyday activities by converting and directing energy to perform work efficiently. These systems range from simple hand-operated devices like hammers and levers to intricate automated machinery, such as robotic arms and hydraulic presses. Fundamental components including gears, pulleys, and motors collaborate to translate forces, control motion, and accomplish precise tasks, reflecting centuries of technological innovation designed to enhance productivity, precision, and reliability across numerous fields, from manufacturing and transportation to healthcare and construction.
 
