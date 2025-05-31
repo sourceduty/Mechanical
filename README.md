@@ -18,13 +18,6 @@ The decision to transition from a portable robotic arm or manipulator to an indu
 
 #
 
-![Dirt Bike Paragliding](https://github.com/user-attachments/assets/4e03a112-da6a-4e96-bd5e-a604d492dc9d)
-
-Skydive dirt biking, also known as paraglide dirt biking, is an extreme sport that combines the thrill of motocross with the exhilaration of paragliding. This unique activity involves riders launching off steep terrains or cliffs on their dirt bikes, equipped with paragliding parachutes that allow them to glide through the air before landing. The sport demands a high level of skill, precision, and courage, as it merges the complexities of two high-adrenaline activities into one breathtaking experience. Participants in skydive dirt biking often seek out rugged mountain landscapes with dramatic elevation changes to maximize the air time and the scenic value of their jumps. The preparation involves rigorous training in both dirt biking and paragliding techniques. Riders need to be proficient in handling their bikes on challenging terrains and also skilled in managing the paraglider to ensure a safe descent. The dual expertise required makes this sport accessible only to those who have mastered both disciplines. The equipment used in skydive dirt biking is specialized to accommodate the needs of both motocross and paragliding. The dirt bikes are typically lightweight and robust, designed to endure the impacts and stresses of rough terrain riding and jumping. The paragliding gear, including the harness and parachute, is securely attached to the rider and bike, allowing for seamless transition from riding to gliding. Safety measures are paramount, with riders often wearing protective gear such as helmets, body armor, and gloves to minimize injury risks.
-
-
-#
-
 ![Copyright](https://github.com/user-attachments/assets/a51e507f-2ac4-40b3-9e77-95bd3ea3e7a3)
 
 A 3D marketplace like Cults3D can use copyright law to protect the digital 3D model file (such as STL or CAD files), including its creative elements, descriptions, and renderings. However, copyright does not cover the functional design of a robotic part, meaning others could replicate its mechanical structure unless it is protected by a patent. While copyright prevents unauthorized distribution of the digital file, it does not stop someone from independently designing and manufacturing a similar physical part. Marketplaces can still enforce their terms of service to restrict unauthorized sharing or resale of the 3D model.
