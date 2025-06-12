@@ -1,4 +1,4 @@
-![Amish AI](https://github.com/user-attachments/assets/b6b09abb-f1f4-4437-b57a-d0fca9e1ffd3)
+![Amish AI](https://github.com/user-attachments/assets/1ca98d51-433a-47e9-9424-04c69e3eb31d)
 
 Mechanical systems, machines, and tools form the backbone of industrial and everyday activities by converting and directing energy to perform work efficiently. These systems range from simple hand-operated devices like hammers and levers to intricate automated machinery, such as robotic arms and hydraulic presses. Fundamental components including gears, pulleys, and motors collaborate to translate forces, control motion, and accomplish precise tasks, reflecting centuries of technological innovation designed to enhance productivity, precision, and reliability across numerous fields, from manufacturing and transportation to healthcare and construction.
 
