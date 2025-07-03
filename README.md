@@ -1,4 +1,4 @@
-![Amish AI](https://github.com/user-attachments/assets/1ca98d51-433a-47e9-9424-04c69e3eb31d)
+![Machine](https://github.com/user-attachments/assets/d8e1f7af-b810-41bd-b4ac-3c4de9b75461)
 
 Mechanical systems, machines, and tools form the backbone of industrial and everyday activities by converting and directing energy to perform work efficiently. These systems range from simple hand-operated devices like hammers and levers to intricate automated machinery, such as robotic arms and hydraulic presses. Fundamental components including gears, pulleys, and motors collaborate to translate forces, control motion, and accomplish precise tasks, reflecting centuries of technological innovation designed to enhance productivity, precision, and reliability across numerous fields, from manufacturing and transportation to healthcare and construction.
 
@@ -55,6 +55,12 @@ A [quantum mechanical powered engine](https://chatgpt.com/g/g-67a43c96f6d481919c
 <br>
 
 ![Desert Snowmobile Jump](https://github.com/user-attachments/assets/f799fd56-4588-4c54-8110-b05b197e4d89)
+
+#
+
+![Amish AI](https://github.com/user-attachments/assets/1ca98d51-433a-47e9-9424-04c69e3eb31d)
+
+[Machine Perfect](https://chatgpt.com/g/g-6865c3c7e7e88191ba2f0a94cc0db34a-machine-perfect) is a custom GPT made to assist with theoretical mechanical compensation, focusing on addressing and mitigating mechanical imperfections or limitations within systems. It helps engineers and designers by suggesting strategies for counteracting issues like misalignment, wear, vibration, and reduced efficiency by introducing compensating elements such as shims, spacers, springs, and bearings. The goal is to fine-tune systems for optimal performance despite inherent flaws or tolerances, ensuring smooth operation and minimizing potential failures. The GPT engages with users in a step-by-step, interactive manner to gather precise information and offer tailored solutions.
 
 #
 
