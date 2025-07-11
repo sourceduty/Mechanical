@@ -1,4 +1,5 @@
 ![Machine](https://github.com/user-attachments/assets/d8e1f7af-b810-41bd-b4ac-3c4de9b75461)
+![Mech](https://github.com/user-attachments/assets/7aad1c1b-0a47-4e8f-9ea0-a3c8599e560a)
 
 Mechanical systems, machines, and tools form the backbone of industrial and everyday activities by converting and directing energy to perform work efficiently. These systems range from simple hand-operated devices like hammers and levers to intricate automated machinery, such as robotic arms and hydraulic presses. Fundamental components including gears, pulleys, and motors collaborate to translate forces, control motion, and accomplish precise tasks, reflecting centuries of technological innovation designed to enhance productivity, precision, and reliability across numerous fields, from manufacturing and transportation to healthcare and construction.
 
